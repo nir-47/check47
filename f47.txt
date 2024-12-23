@@ -1,2 +1,2 @@
 I am from child branch (f47.txt)
-I am 2nd line from parent
+I am 2nd line from child3
